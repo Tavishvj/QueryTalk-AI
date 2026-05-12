@@ -1,0 +1,11 @@
+# API Keys
+.env
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Database
+*.sqlite
+*.db
